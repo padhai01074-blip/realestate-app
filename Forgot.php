@@ -1,6 +1,6 @@
 <?php
 class Forgot extends AppModel
 {
-  public $useTable="clients";
+  public $useTable="users";
 }
 ?>
